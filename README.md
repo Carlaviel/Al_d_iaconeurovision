@@ -7,7 +7,7 @@ He fet aquesta web sobre Eurovisió, ja que m'agrada molt des de fa temps i vaig
 Dades/ Continguts
 
 
-he utilitzat una plantilla de la pàgina plantillashtmlgratis.com, i m'ha vingut de gran ajuda. Ja que aixi he pogut estructurar la pàgina web d'una bonica manera. Els textos són d'elaboració pròpia, les fotografies d'internet, i els links amb les pàgines són pròpies d'internet.
+Les dades són d'elaboració pròpia. He pogut estructurar la pàgina web d'una bonica i raonable manera. Els textos són d'elaboració pròpia, les fotografies d'internet, i els links amb les pàgines són pròpies d'internet.
 
 
 Estructura de la Web
@@ -19,7 +19,7 @@ La págian principal de la Web sería lo primer que veu una persona quan entra, 
 Web Responsive
 
 
-Aquesta web està feta responsive ja que amb la plantilla que hem vaig descarregar venia sola sense requerir afegir cap codi nou. 
+Per a fer la Web responsive vaig buscar a internet el codi per a afegir-ho.
 
 
 Cartografia
